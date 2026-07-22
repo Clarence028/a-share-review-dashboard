@@ -107,7 +107,7 @@ function MarketChart({ series }) {
         {showUp && <path d={linePath("limitUp", yCount)} className="line up" />}
         {showDown && <path d={linePath("limitDown", yCount)} className="line down" />}
         {series.map((point, index) =>
-          index % 3 === 0 || index === series.length - 1 ? (
+          index % 4 === 0 || index === series.length - 1 ? (
             <text key={point.date} x={xFor(index)} y={height - 14} textAnchor="middle" className="date-label">
               {point.date.slice(5)}
             </text>
@@ -126,7 +126,9 @@ function MarketChart({ series }) {
 }
 
 function ThemeStrength({ themes }) {
+  const [expanded, setExpanded] = useState(false);
   const max = Math.max(...themes.map((item) => item.count), 1);
+  const visibleThemes = expanded ? themes : themes.slice(0, 7);
   return (
     <section className="panel theme-panel">
       <div className="panel-head compact">
@@ -134,10 +136,14 @@ function ThemeStrength({ themes }) {
           <h2>题材强度</h2>
           <p>按涨停家数排序</p>
         </div>
-        <button className="ghost-button">更多</button>
+        {themes.length > 7 && (
+          <button className="ghost-button" aria-expanded={expanded} onClick={() => setExpanded((value) => !value)}>
+            {expanded ? "收起" : "查看全部"}
+          </button>
+        )}
       </div>
       <div className="theme-list">
-        {themes.map((theme, index) => (
+        {visibleThemes.map((theme, index) => (
           <div className="theme-row" key={theme.name}>
             <span className={`rank rank-${index + 1}`}>{index + 1}</span>
             <strong>{theme.name}</strong>
@@ -212,7 +218,7 @@ function LimitUpTimeline({ rows }) {
             <span className="code">{row.code}</span>
             <span className="board-count">{row.board}</span>
             <p>{row.logic}</p>
-            <span className={`tag tag-${index % 7}`}>{row.theme}</span>
+            <span className={`tag tag-${index % 7}`} title={row.theme}>{row.theme}</span>
             <span className="note">{row.note}</span>
           </div>
         ))}
