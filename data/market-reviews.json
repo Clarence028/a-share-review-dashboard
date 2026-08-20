@@ -46659,6 +46659,1593 @@
           }
         ]
       }
+    },
+    {
+      "meta": {
+        "tradeDate": "2026-08-20",
+        "tradeDateLabel": "2026-08-20（周四）",
+        "dataAsOf": "15:00",
+        "source": "同花顺涨跌停池 + 腾讯收盘行情 + 东方财富指数K线",
+        "status": "已刷新：2026-08-20 16:05:25"
+      },
+      "kpis": {
+        "turnoverYi": {
+          "value": 20793.63,
+          "delta": -4316.8
+        },
+        "limitUp": {
+          "value": 78,
+          "delta": 42
+        },
+        "limitDown": {
+          "value": 11,
+          "delta": -107
+        }
+      },
+      "marketSeries": [
+        {
+          "date": "2026-07-24",
+          "turnoverYi": 19311.4,
+          "limitUp": 40,
+          "limitDown": 24
+        },
+        {
+          "date": "2026-07-27",
+          "turnoverYi": 20766.2,
+          "limitUp": 111,
+          "limitDown": 6
+        },
+        {
+          "date": "2026-07-28",
+          "turnoverYi": 20257.81,
+          "limitUp": 60,
+          "limitDown": 47
+        },
+        {
+          "date": "2026-07-29",
+          "turnoverYi": 22965.79,
+          "limitUp": 81,
+          "limitDown": 9
+        },
+        {
+          "date": "2026-07-30",
+          "turnoverYi": 23428.09,
+          "limitUp": 51,
+          "limitDown": 74
+        },
+        {
+          "date": "2026-07-31",
+          "turnoverYi": 25419.48,
+          "limitUp": 98,
+          "limitDown": 0
+        },
+        {
+          "date": "2026-08-03",
+          "turnoverYi": 19973.86,
+          "limitUp": 75,
+          "limitDown": 8
+        },
+        {
+          "date": "2026-08-04",
+          "turnoverYi": 22135.92,
+          "limitUp": 137,
+          "limitDown": 0
+        },
+        {
+          "date": "2026-08-05",
+          "turnoverYi": 26596.35,
+          "limitUp": 102,
+          "limitDown": 1
+        },
+        {
+          "date": "2026-08-06",
+          "turnoverYi": 25287.81,
+          "limitUp": 79,
+          "limitDown": 1
+        },
+        {
+          "date": "2026-08-07",
+          "turnoverYi": 26644.2,
+          "limitUp": 74,
+          "limitDown": 4
+        },
+        {
+          "date": "2026-08-10",
+          "turnoverYi": 25231.03,
+          "limitUp": 99,
+          "limitDown": 5
+        },
+        {
+          "date": "2026-08-11",
+          "turnoverYi": 23209.86,
+          "limitUp": 58,
+          "limitDown": 1
+        },
+        {
+          "date": "2026-08-12",
+          "turnoverYi": 21524.23,
+          "limitUp": 91,
+          "limitDown": 0
+        },
+        {
+          "date": "2026-08-13",
+          "turnoverYi": 25509.17,
+          "limitUp": 59,
+          "limitDown": 4
+        },
+        {
+          "date": "2026-08-14",
+          "turnoverYi": 21428.43,
+          "limitUp": 62,
+          "limitDown": 10
+        },
+        {
+          "date": "2026-08-17",
+          "turnoverYi": 23874.57,
+          "limitUp": 106,
+          "limitDown": 1
+        },
+        {
+          "date": "2026-08-18",
+          "turnoverYi": 24007.75,
+          "limitUp": 78,
+          "limitDown": 5
+        },
+        {
+          "date": "2026-08-19",
+          "turnoverYi": 25110.43,
+          "limitUp": 36,
+          "limitDown": 118
+        },
+        {
+          "date": "2026-08-20",
+          "turnoverYi": 20793.63,
+          "limitUp": 78,
+          "limitDown": 11
+        }
+      ],
+      "limitUps": [
+        {
+          "firstTime": "09:25:00",
+          "timeBucket": "09:25",
+          "name": "中关村",
+          "code": "000931",
+          "board": "首板",
+          "logic": "创新药+精麻镇痛+药品获批",
+          "theme": "创新药",
+          "note": "封单0.95亿"
+        },
+        {
+          "firstTime": "09:25:00",
+          "timeBucket": "09:25",
+          "name": "双鹭药业",
+          "code": "002038",
+          "board": "首板",
+          "logic": "mRNA平台+GLP-1+创新药+国企改革",
+          "theme": "mRNA平台",
+          "note": "封单1.19亿"
+        },
+        {
+          "firstTime": "09:25:00",
+          "timeBucket": "09:25",
+          "name": "汉森制药",
+          "code": "002412",
+          "board": "2天2板",
+          "logic": "创新药+中药+中报预增",
+          "theme": "创新药",
+          "note": "封单2.34亿"
+        },
+        {
+          "firstTime": "09:25:00",
+          "timeBucket": "09:25",
+          "name": "莱美药业",
+          "code": "300006",
+          "board": "首板",
+          "logic": "抗肿瘤药物+创新药+广西国资",
+          "theme": "抗肿瘤药物",
+          "note": "封单2.91亿"
+        },
+        {
+          "firstTime": "09:25:00",
+          "timeBucket": "09:25",
+          "name": "沃森生物",
+          "code": "300142",
+          "board": "首板",
+          "logic": "mRNA疫苗+创新药+海外出口",
+          "theme": "mRNA疫苗",
+          "note": "封单8.06亿"
+        },
+        {
+          "firstTime": "09:25:01",
+          "timeBucket": "09:25",
+          "name": "康希诺",
+          "code": "688185",
+          "board": "首板",
+          "logic": "mRNA技术+百白破疫苗+创新疫苗",
+          "theme": "mRNA技术",
+          "note": "封单4.32亿"
+        },
+        {
+          "firstTime": "09:25:02",
+          "timeBucket": "09:25",
+          "name": "百克生物",
+          "code": "688276",
+          "board": "首板",
+          "logic": "mRNA疫苗+肿瘤疫苗+鼻喷流感疫苗",
+          "theme": "mRNA疫苗",
+          "note": "封单0.65亿"
+        },
+        {
+          "firstTime": "09:25:02",
+          "timeBucket": "09:25",
+          "name": "键凯科技",
+          "code": "688356",
+          "board": "首板",
+          "logic": "mRNA癌症疫苗+创新药+聚乙二醇",
+          "theme": "mRNA癌症疫苗",
+          "note": "封单7.65亿"
+        },
+        {
+          "firstTime": "09:25:02",
+          "timeBucket": "09:25",
+          "name": "悦康药业",
+          "code": "688658",
+          "board": "首板",
+          "logic": "siRNA药物+创新药+FDA批准",
+          "theme": "siRNA药物",
+          "note": "封单0.95亿"
+        },
+        {
+          "firstTime": "09:25:04",
+          "timeBucket": "09:25",
+          "name": "近岸蛋白",
+          "code": "688137",
+          "board": "首板",
+          "logic": "肿瘤疫苗+mRNA原料+重组蛋白+CRO",
+          "theme": "肿瘤疫苗",
+          "note": "封单2.09亿"
+        },
+        {
+          "firstTime": "09:30:00",
+          "timeBucket": "09:30-10:30",
+          "name": "速达股份",
+          "code": "001277",
+          "board": "2天2板",
+          "logic": "煤炭设备后市场+农机+高管增持",
+          "theme": "煤炭设备后市场",
+          "note": "封单2.23亿"
+        },
+        {
+          "firstTime": "09:30:00",
+          "timeBucket": "09:30-10:30",
+          "name": "海普瑞",
+          "code": "002399",
+          "board": "首板",
+          "logic": "创新药+依诺肝素制剂+集采中标",
+          "theme": "创新药",
+          "note": "封单1.03亿"
+        },
+        {
+          "firstTime": "09:30:00",
+          "timeBucket": "09:30-10:30",
+          "name": "智飞生物",
+          "code": "300122",
+          "board": "首板",
+          "logic": "默沙东代理+mRNA疫苗+GLP-1",
+          "theme": "默沙东代理",
+          "note": "封单1.74亿"
+        },
+        {
+          "firstTime": "09:30:01",
+          "timeBucket": "09:30-10:30",
+          "name": "康辰药业",
+          "code": "603590",
+          "board": "首板",
+          "logic": "创新药+KAT6/7抑制剂+血凝酶龙头",
+          "theme": "创新药",
+          "note": "封单0.59亿"
+        },
+        {
+          "firstTime": "09:30:03",
+          "timeBucket": "09:30-10:30",
+          "name": "昂利康",
+          "code": "002940",
+          "board": "首板",
+          "logic": "创新药+仿制药获批+定增过会",
+          "theme": "创新药",
+          "note": "封单1.11亿"
+        },
+        {
+          "firstTime": "09:30:04",
+          "timeBucket": "09:30-10:30",
+          "name": "神奇制药",
+          "code": "600613",
+          "board": "6天5板",
+          "logic": "创新药+抗肿瘤+品牌OTC",
+          "theme": "创新药",
+          "note": "封单3.39亿"
+        },
+        {
+          "firstTime": "09:30:06",
+          "timeBucket": "09:30-10:30",
+          "name": "永安药业",
+          "code": "002365",
+          "board": "3天2板",
+          "logic": "牛磺酸+创新药+中报预增",
+          "theme": "牛磺酸",
+          "note": "封单0.27亿"
+        },
+        {
+          "firstTime": "09:30:24",
+          "timeBucket": "09:30-10:30",
+          "name": "古汉医药",
+          "code": "000590",
+          "board": "首板",
+          "logic": "中药+流感",
+          "theme": "中药",
+          "note": "封单0.17亿"
+        },
+        {
+          "firstTime": "09:31:02",
+          "timeBucket": "09:30-10:30",
+          "name": "诺唯赞",
+          "code": "688105",
+          "board": "首板",
+          "logic": "医药研发试剂+AD检测+控股股东增持",
+          "theme": "医药研发试剂",
+          "note": "封单1.84亿"
+        },
+        {
+          "firstTime": "09:31:06",
+          "timeBucket": "09:30-10:30",
+          "name": "金健米业",
+          "code": "600127",
+          "board": "4天4板",
+          "logic": "粮食安全+粮油加工+大健康食品+湖南国资",
+          "theme": "粮食安全",
+          "note": "封单0.55亿"
+        },
+        {
+          "firstTime": "09:31:12",
+          "timeBucket": "09:30-10:30",
+          "name": "贝瑞基因",
+          "code": "000710",
+          "board": "首板",
+          "logic": "AI医疗+基因测序+医疗服务",
+          "theme": "AI医疗",
+          "note": "封单0.31亿"
+        },
+        {
+          "firstTime": "09:31:25",
+          "timeBucket": "09:30-10:30",
+          "name": "志邦家居",
+          "code": "603801",
+          "board": "2天2板",
+          "logic": "定制家居+海外业务+整家一体化+高股息",
+          "theme": "定制家居",
+          "note": "封单0.41亿"
+        },
+        {
+          "firstTime": "09:31:38",
+          "timeBucket": "09:30-10:30",
+          "name": "中电电机",
+          "code": "603988",
+          "board": "首板",
+          "logic": "实控人涉及黄金开采+电机+风电+储能",
+          "theme": "实控人涉及黄金开采",
+          "note": "封单0.34亿"
+        },
+        {
+          "firstTime": "09:31:41",
+          "timeBucket": "09:30-10:30",
+          "name": "风范股份",
+          "code": "601700",
+          "board": "14天8板",
+          "logic": "特高压+中报预增+国企改革",
+          "theme": "特高压",
+          "note": "封单1.12亿"
+        },
+        {
+          "firstTime": "09:31:45",
+          "timeBucket": "09:30-10:30",
+          "name": "达安基因",
+          "code": "002030",
+          "board": "首板",
+          "logic": "广药入主+猴痘概念+分子诊断+广州国资",
+          "theme": "广药入主",
+          "note": "封单0.85亿"
+        },
+        {
+          "firstTime": "09:32:20",
+          "timeBucket": "09:30-10:30",
+          "name": "华大智造",
+          "code": "688114",
+          "board": "首板",
+          "logic": "基因测序+AI应用+回购",
+          "theme": "基因测序",
+          "note": "封单1.71亿"
+        },
+        {
+          "firstTime": "09:32:21",
+          "timeBucket": "09:30-10:30",
+          "name": "金房能源",
+          "code": "001210",
+          "board": "首板",
+          "logic": "磁悬浮热泵+新能源供热+数据中心供冷+综合能源",
+          "theme": "磁悬浮热泵",
+          "note": "封单1.30亿"
+        },
+        {
+          "firstTime": "09:32:54",
+          "timeBucket": "09:30-10:30",
+          "name": "康华生物",
+          "code": "300841",
+          "board": "首板",
+          "logic": "mRNA疫苗+半年报增长+狂犬病疫苗",
+          "theme": "mRNA疫苗",
+          "note": "封单1.48亿"
+        },
+        {
+          "firstTime": "09:32:55",
+          "timeBucket": "09:30-10:30",
+          "name": "康为世纪",
+          "code": "688426",
+          "board": "首板",
+          "logic": "分子诊断+基因测序+肺炎支原体检测",
+          "theme": "分子诊断",
+          "note": "封单0.29亿"
+        },
+        {
+          "firstTime": "09:33:27",
+          "timeBucket": "09:30-10:30",
+          "name": "如通股份",
+          "code": "603036",
+          "board": "首板",
+          "logic": "油气钻采+天然气+轨交业务",
+          "theme": "油气钻采",
+          "note": "封单0.16亿"
+        },
+        {
+          "firstTime": "09:33:45",
+          "timeBucket": "09:30-10:30",
+          "name": "卫光生物",
+          "code": "002880",
+          "board": "首板",
+          "logic": "血液制品+采浆增长+定增扩产+深圳国资",
+          "theme": "血液制品",
+          "note": "封单0.56亿"
+        },
+        {
+          "firstTime": "09:33:54",
+          "timeBucket": "09:30-10:30",
+          "name": "万泰生物",
+          "code": "603392",
+          "board": "首板",
+          "logic": "九价HPV疫苗+出海+创新药",
+          "theme": "九价HPV疫苗",
+          "note": "封单0.96亿"
+        },
+        {
+          "firstTime": "09:34:21",
+          "timeBucket": "09:30-10:30",
+          "name": "富煌钢构",
+          "code": "002743",
+          "board": "3天2板",
+          "logic": "预重整+装配式建筑+钢结构",
+          "theme": "预重整",
+          "note": "封单0.10亿"
+        },
+        {
+          "firstTime": "09:34:39",
+          "timeBucket": "09:30-10:30",
+          "name": "深中华A",
+          "code": "000017",
+          "board": "首板",
+          "logic": "黄金珠宝+黄金涨价+年报增长",
+          "theme": "黄金珠宝",
+          "note": "封单0.34亿"
+        },
+        {
+          "firstTime": "09:37:12",
+          "timeBucket": "09:30-10:30",
+          "name": "凤凰航运",
+          "code": "000520",
+          "board": "4天2板",
+          "logic": "半年报业绩大增+干散货航运+灵便型船",
+          "theme": "半年报业绩大增",
+          "note": "封单0.68亿"
+        },
+        {
+          "firstTime": "09:37:32",
+          "timeBucket": "09:30-10:30",
+          "name": "正泰电器",
+          "code": "601877",
+          "board": "首板",
+          "logic": "半年报增长+低压电器+光伏+储能",
+          "theme": "半年报增长",
+          "note": "封单1.00亿"
+        },
+        {
+          "firstTime": "09:37:49",
+          "timeBucket": "09:30-10:30",
+          "name": "键邦股份",
+          "code": "603285",
+          "board": "4天2板",
+          "logic": "电磁线漆+赛克产品+锂电池+拟收购",
+          "theme": "电磁线漆",
+          "note": "封单1.10亿"
+        },
+        {
+          "firstTime": "09:37:54",
+          "timeBucket": "09:30-10:30",
+          "name": "优宁维",
+          "code": "301166",
+          "board": "首板",
+          "logic": "创新药+抗体+细胞因子蛋白+股份回购",
+          "theme": "创新药",
+          "note": "封单1.35亿"
+        },
+        {
+          "firstTime": "09:40:28",
+          "timeBucket": "09:30-10:30",
+          "name": "大明电子",
+          "code": "603376",
+          "board": "首板",
+          "logic": "汽车电子+无人驾驶+赛力斯产业链",
+          "theme": "汽车电子",
+          "note": "封单0.15亿"
+        },
+        {
+          "firstTime": "09:40:45",
+          "timeBucket": "09:30-10:30",
+          "name": "中京电子",
+          "code": "002579",
+          "board": "首板",
+          "logic": "PCB+定增获批+算力+光模块",
+          "theme": "PCB",
+          "note": "封单1.85亿"
+        },
+        {
+          "firstTime": "09:42:00",
+          "timeBucket": "09:30-10:30",
+          "name": "立霸股份",
+          "code": "603519",
+          "board": "首板",
+          "logic": "半年报增长+股权转让+第三代半导体+家电复合材料",
+          "theme": "半年报增长",
+          "note": "封单0.13亿"
+        },
+        {
+          "firstTime": "09:42:02",
+          "timeBucket": "09:30-10:30",
+          "name": "金域医学",
+          "code": "603882",
+          "board": "首板",
+          "logic": "AI医疗+数据要素+半年报扭亏+回购",
+          "theme": "AI医疗",
+          "note": "封单0.98亿"
+        },
+        {
+          "firstTime": "09:42:21",
+          "timeBucket": "09:30-10:30",
+          "name": "新开源",
+          "code": "300109",
+          "board": "首板",
+          "logic": "肿瘤疫苗+创新药+PVP龙头",
+          "theme": "肿瘤疫苗",
+          "note": "封单0.19亿"
+        },
+        {
+          "firstTime": "09:42:50",
+          "timeBucket": "09:30-10:30",
+          "name": "哈森股份",
+          "code": "603958",
+          "board": "4天3板",
+          "logic": "苹果产业链+机器人概念+重组+中报预计扭亏",
+          "theme": "苹果产业链",
+          "note": "封单0.66亿"
+        },
+        {
+          "firstTime": "09:43:17",
+          "timeBucket": "09:30-10:30",
+          "name": "南京商旅",
+          "code": "600250",
+          "board": "首板",
+          "logic": "国资整合+旅游+商贸+南京国资",
+          "theme": "国资整合",
+          "note": "封单0.60亿"
+        },
+        {
+          "firstTime": "09:44:02",
+          "timeBucket": "09:30-10:30",
+          "name": "新宏泰",
+          "code": "603016",
+          "board": "首板",
+          "logic": "特高压+断路器+国企改革",
+          "theme": "特高压",
+          "note": "封单0.43亿"
+        },
+        {
+          "firstTime": "09:45:57",
+          "timeBucket": "09:30-10:30",
+          "name": "博腾股份",
+          "code": "300363",
+          "board": "首板",
+          "logic": "细胞与基因治疗+创新药CDMO+业绩扭亏",
+          "theme": "细胞与基因治疗",
+          "note": "封单1.64亿"
+        },
+        {
+          "firstTime": "09:47:28",
+          "timeBucket": "09:30-10:30",
+          "name": "德创环保",
+          "code": "603177",
+          "board": "首板",
+          "logic": "钠电池+大气治理+船舶SCR",
+          "theme": "钠电池",
+          "note": "封单0.42亿"
+        },
+        {
+          "firstTime": "09:48:18",
+          "timeBucket": "09:30-10:30",
+          "name": "誉衡药业",
+          "code": "002437",
+          "board": "10天6板",
+          "logic": "创新药+神经退行性疾病+仿制药龙头",
+          "theme": "创新药",
+          "note": "封单2.54亿"
+        },
+        {
+          "firstTime": "09:50:37",
+          "timeBucket": "09:30-10:30",
+          "name": "镇海股份",
+          "code": "603637",
+          "board": "首板",
+          "logic": "控制权拟变更+石化工程+产业转型",
+          "theme": "控制权拟变更",
+          "note": "封单0.49亿"
+        },
+        {
+          "firstTime": "09:50:46",
+          "timeBucket": "09:30-10:30",
+          "name": "塞力医疗",
+          "code": "603716",
+          "board": "首板",
+          "logic": "创新药+高血压疫苗+脑机接口",
+          "theme": "创新药",
+          "note": "封单0.56亿"
+        },
+        {
+          "firstTime": "09:52:03",
+          "timeBucket": "09:30-10:30",
+          "name": "全新好",
+          "code": "000007",
+          "board": "3天2板",
+          "logic": "物业管理+汽车销售+医疗器械销售+粤港澳大湾区",
+          "theme": "物业管理",
+          "note": "封单0.64亿"
+        },
+        {
+          "firstTime": "09:52:03",
+          "timeBucket": "09:30-10:30",
+          "name": "宝鼎科技",
+          "code": "002552",
+          "board": "首板",
+          "logic": "覆铜板+黄金+业绩预增+地方国资",
+          "theme": "覆铜板",
+          "note": "封单0.66亿"
+        },
+        {
+          "firstTime": "09:52:42",
+          "timeBucket": "09:30-10:30",
+          "name": "石药创新",
+          "code": "300765",
+          "board": "首板",
+          "logic": "创新药+半年报扭亏+阿斯利康合作",
+          "theme": "创新药",
+          "note": "封单2.34亿"
+        },
+        {
+          "firstTime": "09:54:05",
+          "timeBucket": "09:30-10:30",
+          "name": "奥锐特",
+          "code": "605116",
+          "board": "首板",
+          "logic": "创新药+司美格鲁肽+集采拟中选",
+          "theme": "创新药",
+          "note": "封单0.42亿"
+        },
+        {
+          "firstTime": "09:57:47",
+          "timeBucket": "09:30-10:30",
+          "name": "狮头股份",
+          "code": "600539",
+          "board": "首板",
+          "logic": "半导体先进封装+机器视觉+AI应用+并购重组",
+          "theme": "半导体先进封装",
+          "note": "封单0.39亿"
+        },
+        {
+          "firstTime": "10:00:12",
+          "timeBucket": "09:30-10:30",
+          "name": "通鼎互联",
+          "code": "002491",
+          "board": "首板",
+          "logic": "中报扭亏+光纤光缆+光棒扩产",
+          "theme": "中报扭亏",
+          "note": "封单2.36亿"
+        },
+        {
+          "firstTime": "10:00:36",
+          "timeBucket": "09:30-10:30",
+          "name": "康泰生物",
+          "code": "300601",
+          "board": "首板",
+          "logic": "mRNA疫苗+创新药+海外业务",
+          "theme": "mRNA疫苗",
+          "note": "封单0.78亿"
+        },
+        {
+          "firstTime": "10:13:27",
+          "timeBucket": "09:30-10:30",
+          "name": "南矿集团",
+          "code": "001360",
+          "board": "首板",
+          "logic": "黄金开采+矿山装备+高端装备",
+          "theme": "黄金开采",
+          "note": "封单0.66亿"
+        },
+        {
+          "firstTime": "10:17:29",
+          "timeBucket": "09:30-10:30",
+          "name": "海南橡胶",
+          "code": "601118",
+          "board": "首板",
+          "logic": "天然橡胶龙头+海南自贸区+国企改革",
+          "theme": "天然橡胶龙头",
+          "note": "封单1.27亿"
+        },
+        {
+          "firstTime": "10:20:31",
+          "timeBucket": "09:30-10:30",
+          "name": "三星新材",
+          "code": "603578",
+          "board": "首板",
+          "logic": "光伏玻璃+低温储藏玻璃门体",
+          "theme": "光伏玻璃",
+          "note": "封单0.43亿"
+        },
+        {
+          "firstTime": "10:20:57",
+          "timeBucket": "09:30-10:30",
+          "name": "郑中设计",
+          "code": "002811",
+          "board": "首板",
+          "logic": "MEMS芯片+室内设计+订单高增",
+          "theme": "MEMS芯片",
+          "note": "封单0.84亿"
+        },
+        {
+          "firstTime": "10:30:57",
+          "timeBucket": "10:30-11:30",
+          "name": "艾艾精工",
+          "code": "603580",
+          "board": "4天3板",
+          "logic": "控制权拟变更+轻型输送带+精密金属结构件",
+          "theme": "控制权拟变更",
+          "note": "封单0.42亿"
+        },
+        {
+          "firstTime": "10:41:50",
+          "timeBucket": "10:30-11:30",
+          "name": "浙江自然",
+          "code": "605080",
+          "board": "首板",
+          "logic": "露营经济+智能床垫+海外产能",
+          "theme": "露营经济",
+          "note": "封单0.02亿"
+        },
+        {
+          "firstTime": "10:42:45",
+          "timeBucket": "10:30-11:30",
+          "name": "华曙高科",
+          "code": "688433",
+          "board": "首板",
+          "logic": "3D打印+机器人+商业航天+半年报增长",
+          "theme": "3D打印",
+          "note": "封单0.33亿"
+        },
+        {
+          "firstTime": "10:45:12",
+          "timeBucket": "10:30-11:30",
+          "name": "万隆光电",
+          "code": "300710",
+          "board": "首板",
+          "logic": "光纤概念+拟收购中控信息+广电网络设备",
+          "theme": "光纤概念",
+          "note": "封单0.50亿"
+        },
+        {
+          "firstTime": "10:51:49",
+          "timeBucket": "10:30-11:30",
+          "name": "科森科技",
+          "code": "603626",
+          "board": "首板",
+          "logic": "机器人+消费电子+AI散热+中报扭亏",
+          "theme": "机器人",
+          "note": "封单1.10亿"
+        },
+        {
+          "firstTime": "11:07:30",
+          "timeBucket": "10:30-11:30",
+          "name": "日海智能",
+          "code": "002313",
+          "board": "首板",
+          "logic": "端侧AI智能模组+机器人+半年报扭亏+珠海国资",
+          "theme": "端侧AI智能模组",
+          "note": "封单0.02亿"
+        },
+        {
+          "firstTime": "11:14:55",
+          "timeBucket": "10:30-11:30",
+          "name": "大东方",
+          "code": "600327",
+          "board": "首板",
+          "logic": "医疗服务+百货零售+回购",
+          "theme": "医疗服务",
+          "note": "封单0.10亿"
+        },
+        {
+          "firstTime": "11:29:06",
+          "timeBucket": "10:30-11:30",
+          "name": "西藏药业",
+          "code": "600211",
+          "board": "首板",
+          "logic": "创新药+基因编辑+半年报增长",
+          "theme": "创新药",
+          "note": "封单0.42亿"
+        },
+        {
+          "firstTime": "13:00:21",
+          "timeBucket": "午后",
+          "name": "宇环数控",
+          "code": "002903",
+          "board": "首板",
+          "logic": "机器人+消费电子+数控机床",
+          "theme": "机器人",
+          "note": "封单0.66亿"
+        },
+        {
+          "firstTime": "13:00:33",
+          "timeBucket": "午后",
+          "name": "安科生物",
+          "code": "300009",
+          "board": "首板",
+          "logic": "mRNA+创新药+辅助生殖+新药受理",
+          "theme": "mRNA",
+          "note": "封单0.60亿"
+        },
+        {
+          "firstTime": "13:05:55",
+          "timeBucket": "午后",
+          "name": "京投发展",
+          "code": "600683",
+          "board": "首板",
+          "logic": "资产重组+拟购光电子资产+TOD轨道物业+北京国资",
+          "theme": "资产重组",
+          "note": "封单0.65亿"
+        },
+        {
+          "firstTime": "13:10:45",
+          "timeBucket": "午后",
+          "name": "澳洋健康",
+          "code": "002172",
+          "board": "7天5板",
+          "logic": "此前炒作生肖+脑机接口+医疗服务+国企改革",
+          "theme": "此前炒作生肖",
+          "note": "封单1.01亿"
+        },
+        {
+          "firstTime": "13:27:36",
+          "timeBucket": "午后",
+          "name": "光华股份",
+          "code": "001333",
+          "board": "首板",
+          "logic": "聚酯树脂+电子封装材料+产能扩张",
+          "theme": "聚酯树脂",
+          "note": "封单0.27亿"
+        },
+        {
+          "firstTime": "14:17:15",
+          "timeBucket": "午后",
+          "name": "若羽臣",
+          "code": "003010",
+          "board": "首板",
+          "logic": "自有品牌高增+宠物经济+中报预增",
+          "theme": "自有品牌高增",
+          "note": "封单0.47亿"
+        },
+        {
+          "firstTime": "14:22:51",
+          "timeBucket": "午后",
+          "name": "红棉股份",
+          "code": "000523",
+          "board": "首板",
+          "logic": "代糖+饮料+半年报预增+广州国资",
+          "theme": "代糖",
+          "note": "封单0.23亿"
+        },
+        {
+          "firstTime": "14:55:34",
+          "timeBucket": "午后",
+          "name": "亿嘉和",
+          "code": "603666",
+          "board": "首板",
+          "logic": "人形机器人+具身智能+华为合作",
+          "theme": "人形机器人",
+          "note": "封单0.50亿"
+        }
+      ],
+      "themes": [
+        {
+          "name": "创新药",
+          "count": 22,
+          "delta": 0
+        },
+        {
+          "name": "mRNA疫苗",
+          "count": 5,
+          "delta": 0
+        },
+        {
+          "name": "中报预增",
+          "count": 4,
+          "delta": 0
+        },
+        {
+          "name": "半年报增长",
+          "count": 4,
+          "delta": 0
+        },
+        {
+          "name": "机器人",
+          "count": 4,
+          "delta": 0
+        },
+        {
+          "name": "肿瘤疫苗",
+          "count": 3,
+          "delta": 0
+        },
+        {
+          "name": "基因测序",
+          "count": 3,
+          "delta": 0
+        },
+        {
+          "name": "医疗服务",
+          "count": 3,
+          "delta": 0
+        },
+        {
+          "name": "国企改革",
+          "count": 3,
+          "delta": 0
+        },
+        {
+          "name": "半年报扭亏",
+          "count": 3,
+          "delta": 0
+        }
+      ],
+      "ranking60d": {
+        "tradeDate": "2026-08-20",
+        "comparisonDate": "2026-08-19",
+        "universe": "沪深主板、创业板、科创板，剔除ST及北交所",
+        "source": "新浪K线 + 腾讯收盘价校验 + 同花顺问财候选集及自由流通市值",
+        "rows": [
+          {
+            "rank": 1,
+            "name": "百合花",
+            "code": "603823",
+            "gain60d": 222.9532710280374,
+            "turnoverRate": 18.50918317818354,
+            "dayChange": 3.75,
+            "previousRank": 1,
+            "rankChange": 0,
+            "theme": "半导体材料",
+            "logic": "光刻胶颜料、特种材料和PEEK概念，受半导体材料国产替代扩散。"
+          },
+          {
+            "rank": 2,
+            "name": "艾艾精工",
+            "code": "603580",
+            "gain60d": 191.124951342935,
+            "turnoverRate": 30.02334884795333,
+            "dayChange": 10.0,
+            "previousRank": 3,
+            "rankChange": 1,
+            "theme": "工业自动化",
+            "logic": "公司主营轻型工业输送带，产品用于物流、食品等自动化生产和输送设备；物流自动化及制造业设备更新预期带动关注。"
+          },
+          {
+            "rank": 3,
+            "name": "哈药股份",
+            "code": "600664",
+            "gain60d": 177.67584097859327,
+            "turnoverRate": 36.33282418769885,
+            "dayChange": 0.22,
+            "previousRank": 2,
+            "rankChange": -1,
+            "theme": "创新药/化学制药/基药目录",
+            "logic": "公司拥有医药工业、医药商业及保健品业务；近期多个规格纳入国家基本药物目录并叠加中报增长预期，受创新药和化学制药板块热度驱动。"
+          },
+          {
+            "rank": 4,
+            "name": "爱丽家居",
+            "code": "603221",
+            "gain60d": 135.00410846343468,
+            "turnoverRate": 44.3961780823079,
+            "dayChange": 5.93,
+            "previousRank": 6,
+            "rankChange": 2,
+            "theme": "PVC弹性地板/家居出口",
+            "logic": "公司主营PVC塑料地板的研发、生产和销售，产品主要面向境外家居建材市场；受家居消费、出口需求与盈利修复预期驱动。"
+          },
+          {
+            "rank": 5,
+            "name": "百普赛斯",
+            "code": "301080",
+            "gain60d": 131.29935391241924,
+            "turnoverRate": 33.0847935043546,
+            "dayChange": 12.72,
+            "previousRank": 11,
+            "rankChange": 6,
+            "theme": "生物试剂/创新药",
+            "logic": "公司提供重组蛋白、抗体、试剂盒及分析检测服务，覆盖药物筛选、临床前及临床试验等环节；创新药研发活跃度提升带动上游科研试剂需求预期。"
+          },
+          {
+            "rank": 6,
+            "name": "一鸣食品",
+            "code": "605179",
+            "gain60d": 130.89591567852437,
+            "turnoverRate": 45.01876008291756,
+            "dayChange": 0.86,
+            "previousRank": 5,
+            "rankChange": -1,
+            "theme": "乳制品/烘焙消费",
+            "logic": "公司主营新鲜乳品与烘焙食品，依托“一鸣真鲜奶吧”连锁门店销售；新鲜消费与连锁门店经营预期带动食品板块关注。"
+          },
+          {
+            "rank": 7,
+            "name": "有研硅",
+            "code": "688432",
+            "gain60d": 130.78501795792715,
+            "turnoverRate": 22.761641664318752,
+            "dayChange": -6.35,
+            "previousRank": 4,
+            "rankChange": -3,
+            "theme": "半导体材料",
+            "logic": "半导体硅片和硅材料，受12英寸硅片涨价、国产替代和产能扩张预期带动。"
+          },
+          {
+            "rank": 8,
+            "name": "陇神戎发",
+            "code": "300534",
+            "gain60d": 128.4132841328413,
+            "turnoverRate": 46.49672243159879,
+            "dayChange": 0.98,
+            "previousRank": 7,
+            "rankChange": -1,
+            "theme": "中药/元胡止痛滴丸",
+            "logic": "公司主营中药，元胡止痛滴丸和宣肺止嗽合剂为核心产品，并持续推进产品驱动、产能协同和降本增效；受中医药振兴与业绩改善预期驱动。"
+          },
+          {
+            "rank": 9,
+            "name": "五洲医疗",
+            "code": "301234",
+            "gain60d": 125.56097560975613,
+            "turnoverRate": 12.1611805332259,
+            "dayChange": 2.57,
+            "previousRank": 8,
+            "rankChange": -1,
+            "theme": "跨界并购/电机控制芯片",
+            "logic": "公司主营一次性无菌输注类医疗器械，并筹划发行股份及支付现金收购旋智电子；受跨界并购、电机控制芯片及医疗器械出口预期驱动。"
+          },
+          {
+            "rank": 10,
+            "name": "宿迁联盛",
+            "code": "603065",
+            "gain60d": 103.48837209302326,
+            "turnoverRate": 14.74262208341503,
+            "dayChange": -3.37,
+            "previousRank": 10,
+            "rankChange": 0,
+            "theme": "高分子助剂/磷化铟",
+            "logic": "光稳定剂、抗氧剂等高分子材料助剂主业，叠加磷化铟衬底合资概念；但该概念存在监管问询后的风险折价。"
+          },
+          {
+            "rank": 11,
+            "name": "义翘神州",
+            "code": "301047",
+            "gain60d": 102.7910562837317,
+            "turnoverRate": 43.91617494863741,
+            "dayChange": 17.55,
+            "previousRank": 33,
+            "rankChange": 22,
+            "theme": "生物试剂",
+            "logic": "公司主营重组蛋白、抗体、基因和培养基等生物试剂及技术服务，为药企和科研机构提供研发工具，受益于创新药产业链修复。"
+          },
+          {
+            "rank": 12,
+            "name": "有研新材",
+            "code": "600206",
+            "gain60d": 101.56416637042307,
+            "turnoverRate": 24.00453536187996,
+            "dayChange": -3.69,
+            "previousRank": 12,
+            "rankChange": 0,
+            "theme": "半导体材料",
+            "logic": "高纯金属、靶材和稀土材料，受国产半导体材料链补涨。"
+          },
+          {
+            "rank": 13,
+            "name": "康龙化成",
+            "code": "300759",
+            "gain60d": 101.10628210193599,
+            "turnoverRate": 9.046072058778226,
+            "dayChange": 5.06,
+            "previousRank": 16,
+            "rankChange": 3,
+            "theme": "创新药CRO/CDMO",
+            "logic": "公司提供覆盖药物发现、临床前、临床及小分子CDMO的一体化服务；2026年中报预告显示主营持续增长、新签订单增加，受创新药研发外包景气修复预期驱动。"
+          },
+          {
+            "rank": 14,
+            "name": "中船特气",
+            "code": "688146",
+            "gain60d": 99.57160342717258,
+            "turnoverRate": 13.481214040202028,
+            "dayChange": -5.25,
+            "previousRank": 9,
+            "rankChange": -5,
+            "theme": "半导体材料",
+            "logic": "电子特气龙头；六氟化钨涨价、AI/HBM扩产与国产替代，是本轮硬科技高标。"
+          },
+          {
+            "rank": 15,
+            "name": "光智科技",
+            "code": "300489",
+            "gain60d": 95.94617757970516,
+            "turnoverRate": 17.789963872805174,
+            "dayChange": 2.74,
+            "previousRank": 17,
+            "rankChange": 2,
+            "theme": "红外材料/光电",
+            "logic": "公司涉及红外光学与功能材料业务，受高端光电材料与红外应用需求预期驱动。"
+          },
+          {
+            "rank": 16,
+            "name": "万邦医药",
+            "code": "301520",
+            "gain60d": 95.87083112758073,
+            "turnoverRate": 45.05845073790277,
+            "dayChange": -4.1,
+            "previousRank": 13,
+            "rankChange": -3,
+            "theme": "创新药/CRO",
+            "logic": "公司同时提供药学研究和临床研究服务，属于综合型CRO；创新药研发投入回升带动医药研发服务板块估值修复。"
+          },
+          {
+            "rank": 17,
+            "name": "高争民爆",
+            "code": "002827",
+            "gain60d": 94.21848739495799,
+            "turnoverRate": 14.2212367081993,
+            "dayChange": 3.18,
+            "previousRank": 20,
+            "rankChange": 3,
+            "theme": "民爆/西藏基建",
+            "logic": "公司主营民用爆破器材的生产销售及爆破服务，业务重点覆盖西藏地区；受西藏交通、矿山与水利基建投资预期驱动。"
+          },
+          {
+            "rank": 18,
+            "name": "聚石化学",
+            "code": "688669",
+            "gain60d": 92.69027882441594,
+            "turnoverRate": 5.208727298596286,
+            "dayChange": 5.07,
+            "previousRank": 28,
+            "rankChange": 10,
+            "theme": "新材料",
+            "logic": "阻燃剂、复合材料和电子材料属性，属于硬科技材料扩散补涨。"
+          },
+          {
+            "rank": 19,
+            "name": "石药创新",
+            "code": "300765",
+            "gain60d": 89.73983144008795,
+            "turnoverRate": 17.51487831843829,
+            "dayChange": 20.0,
+            "previousRank": 40,
+            "rankChange": 21,
+            "theme": "创新药/多肽/对外授权",
+            "logic": "公司控股子公司巨石生物布局抗体、ADC等创新药，并与阿斯利康开展创新多肽及长效递送合作；4.2亿美元首付款已到账，强化管线研发预期。"
+          },
+          {
+            "rank": 20,
+            "name": "致远新能",
+            "code": "300985",
+            "gain60d": 87.58389261744968,
+            "turnoverRate": 8.46829842584493,
+            "dayChange": -1.93,
+            "previousRank": 18,
+            "rankChange": -2,
+            "theme": "LNG/氢能储运",
+            "logic": "车载LNG供气系统、LNG动力船燃料系统和低温储罐，叠加液氢瓶、氢能储运及锂电负极石墨化加工预期。"
+          },
+          {
+            "rank": 21,
+            "name": "兴业科技",
+            "code": "002674",
+            "gain60d": 86.78500986193293,
+            "turnoverRate": 10.860619675816585,
+            "dayChange": 1.25,
+            "previousRank": 25,
+            "rankChange": 4,
+            "theme": "磷化铟/电子皮肤",
+            "logic": "拟收购青岛立昂磷化铟相关资产切入半导体材料，同时具备汽车内饰皮革和机器人电子皮肤概念。"
+          },
+          {
+            "rank": 22,
+            "name": "百花医药",
+            "code": "600721",
+            "gain60d": 86.6120218579235,
+            "turnoverRate": 40.9770235139112,
+            "dayChange": -0.44,
+            "previousRank": 19,
+            "rankChange": -3,
+            "theme": "CRO/创新药",
+            "logic": "公司提供药物发现、CMC开发、临床试验、注册申报及生物分析检测等一站式CRO服务；创新药研发活跃度提升带动医药研发外包预期。"
+          },
+          {
+            "rank": 23,
+            "name": "中捷精工",
+            "code": "301072",
+            "gain60d": 86.57894736842104,
+            "turnoverRate": 6.992747436641262,
+            "dayChange": 1.72,
+            "previousRank": 27,
+            "rankChange": 4,
+            "theme": "汽车零部件",
+            "logic": "主营汽车精密零部件研发、生产和销售，核心产品为汽车减震零部件，并覆盖底盘、发动机及车身等应用。"
+          },
+          {
+            "rank": 24,
+            "name": "锐捷网络",
+            "code": "301165",
+            "gain60d": 85.3020739404869,
+            "turnoverRate": 14.178254447386507,
+            "dayChange": 1.21,
+            "previousRank": 24,
+            "rankChange": 0,
+            "theme": "AI算力网络",
+            "logic": "公司为ICT基础设施及解决方案提供商，数据中心交换机和AI-Fabric智算网络受益于算力中心高速网络建设。"
+          },
+          {
+            "rank": 25,
+            "name": "香江控股",
+            "code": "600162",
+            "gain60d": 81.3852813852814,
+            "turnoverRate": 16.786779285305713,
+            "dayChange": 3.46,
+            "previousRank": 15,
+            "rankChange": -10,
+            "theme": "IDC/重大合同",
+            "logic": "全资子公司与中国移动宁夏公司签订互联网数据中心业务协议，预计五年合同金额约7.96亿元。"
+          },
+          {
+            "rank": 26,
+            "name": "美迪西",
+            "code": "688202",
+            "gain60d": 80.9805857189865,
+            "turnoverRate": 16.907675829950264,
+            "dayChange": 10.15,
+            "previousRank": 37,
+            "rankChange": 11,
+            "theme": "临床前CRO/创新药",
+            "logic": "公司提供药物发现、药学研究及临床前研究的一站式CRO服务；创新药研发活跃度提升带动临床前研发外包需求预期。"
+          },
+          {
+            "rank": 27,
+            "name": "贤丰控股",
+            "code": "002141",
+            "gain60d": 79.65616045845269,
+            "turnoverRate": 20.102023967632245,
+            "dayChange": -2.94,
+            "previousRank": 21,
+            "rankChange": -6,
+            "theme": "覆铜板/摘帽",
+            "logic": "公司已出售原漆包线业务，覆铜板成为主要营收来源，并已撤销退市及其他风险警示；受业务转型与摘帽后估值修复预期驱动。"
+          },
+          {
+            "rank": 28,
+            "name": "博硕科技",
+            "code": "300951",
+            "gain60d": 79.57835915671834,
+            "turnoverRate": 10.957945532514277,
+            "dayChange": 4.37,
+            "previousRank": 31,
+            "rankChange": 3,
+            "theme": "AR/VR光学/精密功能件",
+            "logic": "公司主营精密功能件和智能自动化装备，产品覆盖消费电子、新能源汽车等领域，并持续布局AR/VR、光学和半导体方向，受智能穿戴与光学新应用预期驱动。"
+          },
+          {
+            "rank": 29,
+            "name": "中巨芯-U",
+            "code": "688549",
+            "gain60d": 79.20656634746923,
+            "turnoverRate": 13.707100646765639,
+            "dayChange": -3.64,
+            "previousRank": 23,
+            "rankChange": -6,
+            "theme": "半导体材料",
+            "logic": "电子特气、湿电子化学品国产替代，叠加晶圆厂扩产和材料涨价预期。"
+          },
+          {
+            "rank": 30,
+            "name": "药康生物",
+            "code": "688046",
+            "gain60d": 78.7627861665855,
+            "turnoverRate": 14.77490281453452,
+            "dayChange": 1.94,
+            "previousRank": 26,
+            "rankChange": -4,
+            "theme": "创新药服务",
+            "logic": "公司主营实验动物小鼠模型及相关技术服务，是生命科学研究和新药研发的基础工具；创新药景气回升带动上游模型需求预期。"
+          },
+          {
+            "rank": 31,
+            "name": "阳光股份",
+            "code": "000608",
+            "gain60d": 76.55502392344498,
+            "turnoverRate": 2.7759919299362843,
+            "dayChange": -0.14,
+            "previousRank": 14,
+            "rankChange": -17,
+            "theme": "商业运营/数字科技/摘帽",
+            "logic": "公司主营商业运营和物业租赁，项目分布于北京、深圳、成都及沈阳；当日同花顺涨停标签为商业运营、数字科技和摘帽，受存量商业资产运营改善预期驱动。"
+          },
+          {
+            "rank": 32,
+            "name": "京基智农",
+            "code": "000048",
+            "gain60d": 74.55252918287938,
+            "turnoverRate": 4.510815224238708,
+            "dayChange": -0.09,
+            "previousRank": 35,
+            "rankChange": 3,
+            "theme": "生猪养殖/农牧",
+            "logic": "公司以生猪养殖和饲料生产为核心农牧业务，同时保留房地产项目；受猪价周期、养殖成本下行与业绩弹性预期驱动。"
+          },
+          {
+            "rank": 33,
+            "name": "鑫宏业",
+            "code": "301310",
+            "gain60d": 73.78213802435725,
+            "turnoverRate": 9.844045207987234,
+            "dayChange": 0.18,
+            "previousRank": 22,
+            "rankChange": -11,
+            "theme": "特种线缆",
+            "logic": "公司产品覆盖新能源汽车、充电桩、光伏储能、机器人、核电及核聚变等特种线缆；机器人与可控核聚变主题形成叠加催化。"
+          },
+          {
+            "rank": 34,
+            "name": "恒尚节能",
+            "code": "603137",
+            "gain60d": 71.92224622030237,
+            "turnoverRate": 24.606869620090887,
+            "dayChange": -0.87,
+            "previousRank": 30,
+            "rankChange": -4,
+            "theme": "并购/存储",
+            "logic": "拟收购金胜电子100%股权跨界存储赛道，叠加标的收入和利润增长预期。"
+          },
+          {
+            "rank": 35,
+            "name": "和达科技",
+            "code": "688296",
+            "gain60d": 71.7931937172775,
+            "turnoverRate": 12.561340641732578,
+            "dayChange": 0.61,
+            "previousRank": 36,
+            "rankChange": 1,
+            "theme": "智慧水务/水利信息化",
+            "logic": "公司提供智慧水务软硬件、物联网和运营服务，覆盖供水、排水、水利及水生态；市场关注供水条例落地、管网改造与水务数智化需求。"
+          },
+          {
+            "rank": 36,
+            "name": "博腾股份",
+            "code": "300363",
+            "gain60d": 65.85365853658539,
+            "turnoverRate": 16.603506539648876,
+            "dayChange": 20.0,
+            "previousRank": 78,
+            "rankChange": 42,
+            "theme": "医药CDMO/创新药",
+            "logic": "公司为全球制药企业和生物科技公司提供研发生产服务，业务覆盖小分子原料药、制剂及生物大分子；受创新药景气和CDMO订单修复预期带动。"
+          },
+          {
+            "rank": 37,
+            "name": "神奇制药",
+            "code": "600613",
+            "gain60d": 65.57059961315281,
+            "turnoverRate": 22.492207113207684,
+            "dayChange": 10.03,
+            "previousRank": 51,
+            "rankChange": 14,
+            "theme": "中药/医药商业",
+            "logic": "公司主营药品研发、生产与销售，覆盖抗肿瘤、感冒止咳、心脑血管及风湿骨痛等领域，并经营医药商业；受中药和医药板块主题带动。"
+          },
+          {
+            "rank": 38,
+            "name": "益诺思",
+            "code": "688710",
+            "gain60d": 64.31385423506238,
+            "turnoverRate": 6.791129115586332,
+            "dayChange": 9.92,
+            "previousRank": 43,
+            "rankChange": 5,
+            "theme": "临床前CRO/创新药",
+            "logic": "公司主营生物医药非临床CRO，布局放射性药物、小核酸、ADC及细胞与基因治疗等创新赛道；受创新药研发服务景气主题带动。"
+          },
+          {
+            "rank": 39,
+            "name": "药明康德",
+            "code": "603259",
+            "gain60d": 63.59738867777453,
+            "turnoverRate": 4.106439745568501,
+            "dayChange": 2.38,
+            "previousRank": 39,
+            "rankChange": 0,
+            "theme": "医药研发服务",
+            "logic": "为全球医药及生命科学行业提供一体化药物发现、研发和生产服务，采用覆盖小分子及多肽、寡核苷酸等新分子类型的CRDMO模式。"
+          },
+          {
+            "rank": 40,
+            "name": "开开实业",
+            "code": "600272",
+            "gain60d": 61.49779735682819,
+            "turnoverRate": 55.37044417740383,
+            "dayChange": -6.0,
+            "previousRank": 34,
+            "rankChange": -6,
+            "theme": "医药流通/零售",
+            "logic": "主营医药流通与零售，并经营服装品牌业务；医药板块覆盖药品销售、基层配送及健康服务。"
+          },
+          {
+            "rank": 41,
+            "name": "五洋自控",
+            "code": "300420",
+            "gain60d": 61.171366594360066,
+            "turnoverRate": 8.192494131135101,
+            "dayChange": 1.36,
+            "previousRank": 41,
+            "rankChange": 0,
+            "theme": "机器人/智能物流",
+            "logic": "实控人变更与资产整合预期，叠加工业机器人、智能物流仓储及智慧停车业务。"
+          },
+          {
+            "rank": 42,
+            "name": "正帆科技",
+            "code": "688596",
+            "gain60d": 60.52376333656644,
+            "turnoverRate": 8.222668639941991,
+            "dayChange": 1.56,
+            "previousRank": 45,
+            "rankChange": 3,
+            "theme": "半导体设备",
+            "logic": "高纯工艺系统、电子特气和晶圆厂配套设备，受国内晶圆厂扩产及设备国产化带动。"
+          },
+          {
+            "rank": 43,
+            "name": "誉衡药业",
+            "code": "002437",
+            "gain60d": 59.25925925925925,
+            "turnoverRate": 22.667498968967355,
+            "dayChange": 10.0,
+            "previousRank": 57,
+            "rankChange": 14,
+            "theme": "化学制药",
+            "logic": "主营化学药和中成药，产品覆盖维生素、心脑血管、骨科、抗肿瘤及电解质等治疗领域。"
+          },
+          {
+            "rank": 44,
+            "name": "洁雅股份",
+            "code": "301108",
+            "gain60d": 59.100642398286915,
+            "turnoverRate": 3.798284716478057,
+            "dayChange": 4.91,
+            "previousRank": 47,
+            "rankChange": 3,
+            "theme": "湿巾/日用消费",
+            "logic": "专注湿巾类产品研发、生产和销售，现阶段以国际品牌代工为主，并推进化妆品代工及海外产能布局。"
+          },
+          {
+            "rank": 45,
+            "name": "传智教育",
+            "code": "003032",
+            "gain60d": 58.90957446808511,
+            "turnoverRate": 37.87608716881157,
+            "dayChange": -10.02,
+            "previousRank": 29,
+            "rankChange": -16,
+            "theme": "具身智能/AI教育",
+            "logic": "公司开展数字化人才职业培训与学历教育，课程覆盖AI大模型、鸿蒙、智能制造及机器人开发；叠加中报扭亏预期，受具身智能和AI教育主题驱动。"
+          },
+          {
+            "rank": 46,
+            "name": "九州一轨",
+            "code": "688485",
+            "gain60d": 56.041320789522246,
+            "turnoverRate": 8.968332048970227,
+            "dayChange": -1.64,
+            "previousRank": 54,
+            "rankChange": 8,
+            "theme": "轨交减振降噪",
+            "logic": "公司聚焦城市轨道交通减振降噪，拥有阻尼弹簧浮置道床等自主技术；受城市更新和轨交绿色低噪建设主题带动。"
+          },
+          {
+            "rank": 47,
+            "name": "胜蓝股份",
+            "code": "300843",
+            "gain60d": 55.61978163134231,
+            "turnoverRate": 16.02447276703681,
+            "dayChange": 10.08,
+            "previousRank": 61,
+            "rankChange": 14,
+            "theme": "高速连接器",
+            "logic": "高频高速连接器、汽车射频连接器，受AI服务器高速互连和汽车电子需求映射。"
+          },
+          {
+            "rank": 48,
+            "name": "芯碁微装",
+            "code": "688630",
+            "gain60d": 53.003533568904594,
+            "turnoverRate": 8.059660421646413,
+            "dayChange": -0.23,
+            "previousRank": 52,
+            "rankChange": 4,
+            "theme": "直写光刻设备/PCB设备",
+            "logic": "公司核心产品为PCB直接成像设备及泛半导体直写光刻设备，2025年报显示高端PCB曝光设备与泛半导体设备持续拓展，受高端PCB和半导体设备国产替代预期驱动。"
+          },
+          {
+            "rank": 49,
+            "name": "恒逸石化",
+            "code": "000703",
+            "gain60d": 52.96803652968036,
+            "turnoverRate": 13.076235081189127,
+            "dayChange": 5.35,
+            "previousRank": 64,
+            "rankChange": 15,
+            "theme": "炼化/涤纶长丝",
+            "logic": "公司形成文莱炼化、PTA和聚酯一体化产业链，聚酯产品包括涤纶长丝、短纤、切片及瓶片；受炼化盈利修复和涤纶长丝景气主题带动。"
+          },
+          {
+            "rank": 50,
+            "name": "博济医药",
+            "code": "300404",
+            "gain60d": 52.37173281703775,
+            "turnoverRate": 35.98090791382263,
+            "dayChange": 2.54,
+            "previousRank": 49,
+            "rankChange": -1,
+            "theme": "创新药CRO/CDMO",
+            "logic": "为药品和医疗器械研发生产提供临床前、临床研究、注册咨询及CDMO等全流程外包服务，属于创新药研发服务链条。"
+          }
+        ]
+      }
     }
   ]
 }
